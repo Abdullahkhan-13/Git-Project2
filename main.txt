@@ -1,1 +1,5 @@
-This file 1 for feature branch
+This file 1 for master branch
+
+Add changes This file 1 for feature1 branch
+
+Add changes This file 1 for feature2 branch

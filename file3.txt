@@ -1,1 +1,3 @@
 this is file3 for feature1 branch
+
+Add changes this is file3 for feature2 branch
