@@ -2,4 +2,6 @@ This file 1 for master branch
 
 Add changes This file 1 for feature1 branch
 
+Hello waleed here
+
 Add changes This file 1 for feature2 branch
