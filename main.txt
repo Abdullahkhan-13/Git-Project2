@@ -5,3 +5,7 @@ Add changes This file 1 for feature1 branch
 Hello waleed here
 
 Add changes This file 1 for feature2 branch
+
+This my new text in the main file 
+
+Hello World
